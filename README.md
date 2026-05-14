@@ -69,9 +69,6 @@ HireNest is a modern and responsive **smart hiring platform** designed to connec
 - 🎯 Tabler Icons
 - 🎬 Framer Motion
 
-## Deployment
-- 🌐 Netlify
-
 ---
 
 # 📂 Project Structure
